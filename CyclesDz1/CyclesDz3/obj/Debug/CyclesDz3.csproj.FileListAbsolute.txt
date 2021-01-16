@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\bin\Debug\CyclesDz3.exe.config
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\bin\Debug\CyclesDz3.exe
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\bin\Debug\CyclesDz3.pdb
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\obj\Debug\CyclesDz3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\obj\Debug\CyclesDz3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\obj\Debug\CyclesDz3.exe
+C:\Users\User\source\repos\CyclesDz1\CyclesDz3\obj\Debug\CyclesDz3.pdb
