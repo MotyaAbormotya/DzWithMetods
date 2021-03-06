@@ -1,0 +1,7 @@
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\bin\Debug\DzWithLastLesson.exe.config
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\bin\Debug\DzWithLastLesson.exe
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\bin\Debug\DzWithLastLesson.pdb
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\obj\Debug\DzWithLastLesson.csprojAssemblyReference.cache
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\obj\Debug\DzWithLastLesson.csproj.CoreCompileInputs.cache
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\obj\Debug\DzWithLastLesson.exe
+C:\Users\pchel\source\repos\DzWithLastLesson\DzWithLastLesson\obj\Debug\DzWithLastLesson.pdb

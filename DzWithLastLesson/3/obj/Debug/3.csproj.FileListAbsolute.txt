@@ -1,0 +1,7 @@
+C:\Users\pchel\source\repos\DzWithLastLesson\3\bin\Debug\3.exe.config
+C:\Users\pchel\source\repos\DzWithLastLesson\3\bin\Debug\3.exe
+C:\Users\pchel\source\repos\DzWithLastLesson\3\bin\Debug\3.pdb
+C:\Users\pchel\source\repos\DzWithLastLesson\3\obj\Debug\3.csprojAssemblyReference.cache
+C:\Users\pchel\source\repos\DzWithLastLesson\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\pchel\source\repos\DzWithLastLesson\3\obj\Debug\3.exe
+C:\Users\pchel\source\repos\DzWithLastLesson\3\obj\Debug\3.pdb
